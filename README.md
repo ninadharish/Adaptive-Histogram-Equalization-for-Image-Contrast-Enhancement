@@ -52,7 +52,7 @@
 
 ![alt text](/output/output3.png)
 
-* Final Output
+* Final Output (It can be seen that the features under shadows in the input data are comparitively clearer due to these Contrast Enhancement techniques.)
 
 ![alt text](/output/final_output.gif)
 
